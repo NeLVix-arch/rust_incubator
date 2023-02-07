@@ -9,6 +9,7 @@ Polish your familiarity by completing [Rust By Example].
 
 Read through [Cargo Book] and become familiar with [Cargo] and its workspaces.
 
+
 After completing these steps, you should be able to answer (and understand why) the following questions:
 - What memory model [Rust] has? Is it single-threaded or multiple-threaded? Is it synchronous or asynchronous?
 
@@ -149,6 +150,7 @@ After completing these steps, you should be able to answer (and understand why) 
 
 [x]
     Определений ООП достаточно много, но можно выделить главные черты: наследование, инкапсуляция, абстракция и полиморфизм. Поэтому раст не является класситечки обьектно-ориентированным языком, но основные иснтрументы ООП можно применять, так же можем наследовать трейты
+
 
 After you're done notify your lead in an appropriate PR (pull request), and he will exam what you have learned.
 
